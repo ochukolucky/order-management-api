@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.deps.json
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Domain.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Domain.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderMan.B2E1D241.Up2Date
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\refint\OrderManagement.Application.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\ref\OrderManagement.Application.dll

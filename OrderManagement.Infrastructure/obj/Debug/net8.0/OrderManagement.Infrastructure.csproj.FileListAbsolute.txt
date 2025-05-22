@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.deps.json
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Application.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Application.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderMan.FDF35C14.Up2Date
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\refint\OrderManagement.Infrastructure.dll
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.pdb
+C:\Users\Hp\source\repos\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\ref\OrderManagement.Infrastructure.dll

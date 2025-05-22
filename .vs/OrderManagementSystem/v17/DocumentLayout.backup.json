@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderDbInit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|solutionrelative:OrderDbInit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.application\\services\\orderanalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\orderanalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74758748-846F-40C6-AE57-840C515F7E2F}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.api\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74758748-846F-40C6-AE57-840C515F7E2F}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.tests\\analyticscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\analyticscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.tests\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.tests\\ordermanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\ordermanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548507A0-42FE-4422-AB75-9CD9EE89772D}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548507A0-42FE-4422-AB75-9CD9EE89772D}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDAA7CA-491B-4B5E-8B4A-930D96E31CB0}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.application\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74758748-846F-40C6-AE57-840C515F7E2F}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74758748-846F-40C6-AE57-840C515F7E2F}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.application\\dtos\\applydiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\dtos\\applydiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.application\\dtos\\orderanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\dtos\\orderanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.application\\interfaces\\iorderanalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904AA0-C9A2-46A4-AFD9-7861BCFFE129}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\interfaces\\iorderanalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1279AC-E790-4BA1-8EDA-3769EC573FEC}|OrderManagement.Domain\\OrderManagement.Domain.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1279AC-E790-4BA1-8EDA-3769EC573FEC}|OrderManagement.Domain\\OrderManagement.Domain.csproj|solutionrelative:ordermanagement.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1279AC-E790-4BA1-8EDA-3769EC573FEC}|OrderManagement.Domain\\OrderManagement.Domain.csproj|c:\\users\\hp\\source\\repos\\ordermanagementsystem\\ordermanagement.domain\\enums\\customersegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1279AC-E790-4BA1-8EDA-3769EC573FEC}|OrderManagement.Domain\\OrderManagement.Domain.csproj|solutionrelative:ordermanagement.domain\\enums\\customersegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderDbInit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|ReadMeFiles{4D20A20B-AB1F-4547-911F-CF9C7ED61C78}|solutionrelative:OrderDbInit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDbInit.sql ",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderDbInit.sql",
+              "RelativeDocumentMoniker": "OrderDbInit.sql",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderDbInit.sql",
+              "RelativeToolTip": "OrderDbInit.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T23:13:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-22T23:01:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyticsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\AnalyticsControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\AnalyticsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\AnalyticsControllerTests.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\AnalyticsControllerTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:49:39.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.API\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.API\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "OrderManagement.API\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:48:49.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderManagement.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\OrderManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\OrderManagement.Tests.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\OrderManagement.Tests.csproj",
+              "RelativeToolTip": "OrderManagement.Tests\\OrderManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T22:46:58.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderAnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Services\\OrderAnalyticsService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\OrderAnalyticsService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Services\\OrderAnalyticsService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\OrderAnalyticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:55:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\OrderControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\OrderControllerTests.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\OrderControllerTests.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\OrderControllerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:47:10.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\DiscountServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\DiscountServiceTests.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Tests\\DiscountServiceTests.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\DiscountServiceTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:16:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:55:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Services\\DiscountService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\DiscountService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAtwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:46:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderAnalyticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\DTOs\\OrderAnalyticsDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\DTOs\\OrderAnalyticsDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\DTOs\\OrderAnalyticsDto.cs",
+              "RelativeToolTip": "OrderManagement.Application\\DTOs\\OrderAnalyticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:23:11.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplyDiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\DTOs\\ApplyDiscountDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\DTOs\\ApplyDiscountDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\DTOs\\ApplyDiscountDto.cs",
+              "RelativeToolTip": "OrderManagement.Application\\DTOs\\ApplyDiscountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:30:20.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderAnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Interfaces\\IOrderAnalyticsService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\IOrderAnalyticsService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Application\\Interfaces\\IOrderAnalyticsService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Interfaces\\IOrderAnalyticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:58:24.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "OrderManagement.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:41:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.API\\Program.cs",
+              "RelativeToolTip": "OrderManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:40:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerSegment.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Domain\\Enums\\CustomerSegment.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Domain\\Enums\\CustomerSegment.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OrderManagementSystem\\OrderManagement.Domain\\Enums\\CustomerSegment.cs",
+              "RelativeToolTip": "OrderManagement.Domain\\Enums\\CustomerSegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:40:48.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
